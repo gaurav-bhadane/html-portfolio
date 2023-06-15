@@ -1,0 +1,36 @@
+body
+{
+    background-color: lightgoldenrodyellow;
+}
+hr{
+
+    background-color: lightgoldenrodyellow;
+    border-color: grey;
+    border-style: dotted none none;
+    width: 7%;
+    border-width: 10px;
+}
+h3
+{
+    color: rgb(207, 121, 35);
+}
+h1
+{
+    color: rgb(207, 121, 35);
+}
+a
+{
+    color: rgb(207, 121, 35);
+}
+h2
+{
+    color: rgb(207, 121, 35);
+}
+img:hover
+{
+    
+    background-color: yellow;
+}
+
+
+
