@@ -29,7 +29,7 @@ h2
 img:hover
 {
     
-    background-color: yellow;
+    background-color: linear-gradient(to right, red , yellow);
 }
 
 
