@@ -1,1 +1,2 @@
-# Basic Frontend UI made for learning basic HTML and CSS
+# Description
+Basic Frontend UI made for learning basic HTML and CSS
